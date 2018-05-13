@@ -1,3 +1,3 @@
 # ReadME
 test_01
-I love :pizza: :spaghetti:, and :sun:.
+I love :pizza: :spaghetti:, and :coffee:.
